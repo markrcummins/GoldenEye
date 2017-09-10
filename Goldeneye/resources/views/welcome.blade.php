@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    HACC GoldenEye
                 </div>
 
                 <div class="links">
